@@ -1,0 +1,64 @@
+body {
+    margin:0 ;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    margin: 5px;
+    width: 100%;
+    padding-left: 10px;
+    
+    padding-top: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+
+
+}
+button {
+    background-color: rgb(31, 190, 31);
+    margin-left: 5px;
+    padding: 10px 20px;
+    color: white;
+    border: 1px solid #5f9341;
+    font-weight: 1px solid #5f9341;
+
+}
+
+#button-del{
+
+    background-color:white;
+    margin-left: 5px;
+    padding: 10px 20px;
+    color: green;
+    border: 1px solid #5f9341;
+    font-weight: 1px solid #5f9341;
+
+}
+clear {
+    background-color: rgb(31, 190, 31);
+
+    padding: 10px 20px;
+    color: white;
+    border: 0px;
+    font-weight: 1px solid #5f9341;
+
+}
+
+ol{
+    list-style: none;
+    padding-left: 5px;
+
+}
+li{
+    text-decoration-color: #5f9341;
+    margin-top: 20px;
+
+}
+a {
+    text-decoration-color: #5f9341;
+    color: #5f9341;
+ 
+}
+

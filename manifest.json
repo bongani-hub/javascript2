@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "version": "1.1",
+    "name": "Chome-Extension",
+    "action":{
+        "default_popup":"index.html",
+        "default_xbox":" xbox.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+
+}
